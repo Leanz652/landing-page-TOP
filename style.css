@@ -17,6 +17,7 @@ body {
   .container-white{
       display: flex;
       flex-direction: column;
+      flex:1;
   }
 
   .container-grey{
